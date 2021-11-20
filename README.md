@@ -1,7 +1,10 @@
 # Diabetic_Retinopathy_Detection_Deep_CNNs
 This project explores the implementation of deep convolutional neural networks for automatic detection and classification of diabetic retinopathy from color fundus retinal images. 
 
+##Classes of Diabetic Restinopathy 
+
+![image](https://github.com/vyasrc/Diabetic_Retinopathy_Detection_Deep_CNNs/blob/main/results%20table.png)
 
 ## Results
 
- ![image](https://user-images.githubusercontent.com/25820721/142710546-b2a0fc27-4e94-4baf-be1f-188988491871.png)
+![image](https://github.com/vyasrc/Diabetic_Retinopathy_Detection_Deep_CNNs/blob/main/results%20table.png)
